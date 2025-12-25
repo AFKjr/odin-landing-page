@@ -21,9 +21,13 @@
     padding: 0;
 }
 
+.hero {
+    background-color: #1f2937;
+}
+
 .section-one {
-    background-color: #1f2937
-    
+    min-height: 25vh;
+    padding: 40px;
 }
 
 .logo {
