@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.top-header { 
+
+    padding: 20px;
+    border: 10px;
+    background-color: #1f2937;
+    color: beige;
+    
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    gap: 30px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+
+.section-one {
+    background-color: #1f2937
+    
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.sign-up {
+    display: block;
+    background-color: blue;
+    color: white;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 20px;
+}
