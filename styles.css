@@ -115,3 +115,9 @@ h4 {
 .little-footer {
     text-align: right;
 }
+
+footer {
+    background-color:#1f2937;
+    text-align: center;
+    color: beige;
+}
