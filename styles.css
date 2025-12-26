@@ -72,3 +72,32 @@ h4 {
     height: 25vh;
     padding: 40px;
 }
+
+.section-four {
+    background-color: white;
+    padding: 40px;
+}
+
+.cta {
+    border: 2px solid blue;
+    background-color: blue;
+    padding: 20px;
+    width: auto;  
+    margin-left: auto;
+    margin-right:auto;
+    color: white;
+    display: flex;
+}
+
+.call {
+    flex: 1;
+}
+
+#cta-button {
+    background-color: blue;
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+    border-color: white;
+    
+}
