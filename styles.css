@@ -71,6 +71,14 @@ h4 {
     color: black;
     height: 25vh;
     padding: 40px;
+    text-align: center;
+}
+
+
+.text {
+    text-align: center;
+    max-width:800px;
+    margin: 0 auto;
 }
 
 .section-four {
@@ -102,4 +110,8 @@ h4 {
     border-radius: 20px;
     border: 2px solid white;
     
+}
+
+.little-footer {
+    text-align: right;
 }
