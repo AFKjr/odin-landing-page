@@ -79,14 +79,16 @@ h4 {
 }
 
 .cta {
-    border: 2px solid blue;
+    border: 2px solid white;
     background-color: blue;
     padding: 20px;
-    width: auto;  
+    max-width: 800px;  
     margin-left: auto;
     margin-right:auto;
     color: white;
     display: flex;
+    align-items: center;
+    gap: 40px
 }
 
 .call {
@@ -96,8 +98,8 @@ h4 {
 #cta-button {
     background-color: blue;
     color: white;
-    padding: 30px;
+    padding: 10px;
     border-radius: 20px;
-    border-color: white;
+    border: 2px solid white;
     
 }
