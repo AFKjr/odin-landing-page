@@ -54,3 +54,21 @@ h1 {
 h4 {
     font-size: 12px;
 }
+
+.section-two {
+    background-color: beige;
+    height: 25vh;
+    padding: 40px;
+}
+
+.header-text {
+    color: #1f2937;
+    text-align: center;
+}
+
+.section-three {
+    background-color: grey;
+    color: black;
+    height: 25vh;
+    padding: 40px;
+}
